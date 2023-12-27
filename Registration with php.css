@@ -1,0 +1,30 @@
+.head{
+    color: red ;
+    font-size: 20px;
+}
+
+.registration{
+color: white ;
+background-color: black ;
+height: 65% ;
+width: 40% ;
+margin-bottom: 0.9% ;
+opacity : 0.6 ;
+font-weight: bold ;
+font-family: "Bookmania" ;
+font-size: 20px ;
+border-radius: 20px ;
+border: white 3px solid ;
+}
+
+input{
+  margin: 0.9% ;
+}
+body{
+background-image: url("2-nature-wallpaper-grass.preview.jpg") ;
+background-size: 100% ;
+}
+.submit{
+color: white ;
+font-size: 25px;
+}
